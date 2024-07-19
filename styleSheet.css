@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(241, 230, 219);
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    font-size: larger;
+
+}
+div {
+    max-width: 279;
+    text-align: center;
+}
+button {
+    padding: 10px;
+    margin: 10px 0 ;
+    width: 150px;
+    border-radius: 25px;
+    border-style: none;
+    background-color: rgb(41, 41, 41);
+    color: beige;
+}
